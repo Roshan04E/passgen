@@ -1,0 +1,16 @@
+.footer {
+    font-weight: 300;
+    color: #ccc;
+    position: fixed;
+    bottom: 1rem;
+    background-color: transparent;
+    padding: 0.2rem 5rem;
+    border: 1px solid #eee;
+    border-radius: 100px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.year {
+    padding-left: 2rem;
+}
